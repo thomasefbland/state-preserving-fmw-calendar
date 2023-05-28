@@ -4,9 +4,11 @@ Have VSCode, NPM/PNPM, and Node installed
 
 `git clone https://github.com/thomasefbland/state-preserving-fmw-calendar.git`
 
-`cd state-preserving-fmw-calendar.git`
+`cd state-preserving-fmw-calendar`
 
 `code .`
+
+Inside the VSCode terminal, run `pnpm install` or `npm install`
 
 # How to Build
 
