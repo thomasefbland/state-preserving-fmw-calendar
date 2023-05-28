@@ -1,0 +1,7 @@
+{
+  "file": "fmw_calendar.fmp12",
+  "server": "<<InsertServerAddress>>",
+  "uploadScript": "FCCalendarUpdateCalendarHTML",
+  "user": "<<InsertUN>>",
+  "pass": "<<InsertPW>>"
+}

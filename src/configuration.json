@@ -1,0 +1,93 @@
+{
+  "EventDetailLayout": {
+    "type": "select",
+    "options": [],
+    "value": "",
+    "reScanOnChange": true,
+    "required": true
+  },
+  "DefaultEventStyle": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "default": "blue"
+  },
+  "EventPrimaryKeyField": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "required": true
+  },
+
+  "EventTitleField": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "required": true
+  },
+  "EventDescriptionField": {
+    "type": "select",
+    "options": "",
+    "value": ""
+  },
+  "EventStartDateField": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "required": true
+  },
+  "EventStartTimeField": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "required": true
+  },
+  "EventEndDateField": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "required": true
+  },
+  "EventEndTimeField": {
+    "type": "select",
+    "options": "",
+    "value": "",
+    "required": true
+  },
+  "EventAllDayField": {
+    "type": "select",
+    "options": "",
+    "value": ""
+  },
+  "EventEditableField": {
+    "type": "select",
+    "options": "",
+    "value": ""
+  },
+  "EventStyleField": {
+    "type": "select",
+    "options": "",
+    "value": ""
+  },
+
+  "EventFilterField": {
+    "type": "select",
+    "options": "",
+    "value": ""
+  },
+  "EventFilterQueryField": {
+    "type": "select",
+    "options": "",
+    "value": ""
+  },
+  "StartOnDay": {
+    "type": "select",
+    "options": ["Sunday", "Monday"],
+    "value": "Sunday"
+  },
+  "StartingView": {
+    "type": "select",
+    "options": ["Day", "Week", "Month"],
+    "value": "Month"
+  }
+}
